@@ -6,3 +6,5 @@
 [Class 04](./Class04.sql)
 
 [Class 06](./Class06.sql)
+
+[Class 07](./Class07.sql)
