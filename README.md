@@ -10,3 +10,9 @@
 [Class 07](./Class07.sql)
 
 [Class 09](./Class09.sql)
+
+[Class 11](./Class11.sql)
+
+[Class 13](./Class13.sql)
+
+[Class 15](./Class15.sql)
