@@ -51,7 +51,7 @@ JOIN film f ON i.film_id = f.film_id
 JOIN customer c ON r.customer_id = c.customer_id
 WHERE DATE_FORMAT(r.rental_date, '%m-%d') BETWEEN '05-01' AND '06-30';
 
-#6
+#5
 #Diferencias
 #Funcionalmente hacen lo mismo.
 #CAST es más portable (se puede usar en otros sistemas como PostgreSQL, SQL Server, etc.).
