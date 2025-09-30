@@ -24,3 +24,5 @@
 [Class 17](./Class17.sql)
 
 [Class 18](./Class18.sql)
+
+[Class 19](./Class19.sql)
